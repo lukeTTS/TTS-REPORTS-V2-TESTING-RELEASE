@@ -6,6 +6,185 @@ Included test licence codes:
 TTS-DEMO-2026
 TTS-PILOT-2026
 
+# TTS Reports
+
+## Turn test and tag data into professional customer reports.
+
+TTS Reports is a reporting tool designed for test and tag businesses that need a faster, cleaner way to turn appliance testing data into customer-ready reports.
+
+Instead of manually sorting through exported test results, TTS Reports helps organise uploaded test data into clear dashboards, asset registers, report previews, and professional PDF reports.
+
+Built for practical field and office use, the software is designed to save time, improve presentation, and make reporting easier for internal staff, technicians, and business owners.
+
+---
+
+## What TTS Reports Does
+
+TTS Reports allows users to upload supported test and tag report files, review the extracted appliance data, check asset details, preview different report types, and export polished PDF reports for customers.
+
+The software is built around a simple workflow:
+
+1. Activate access with a licence code.
+2. Accept the current terms.
+3. Upload a supported test file.
+4. Review the extracted asset data.
+5. Preview the required report.
+6. Export the finished report.
+
+The goal is to make reporting quicker, clearer, and more consistent.
+
+---
+
+## Key Features
+
+### Professional Report Generation
+
+Create cleaner, more presentable reports from test and tag data.
+
+TTS Reports supports multiple report outputs, including:
+
+* Basic reports
+* PRO reports
+* Upcoming retest reports
+* Asset register style reporting
+* Items requiring attention
+
+Reports are designed to be easier for customers to read while still giving internal teams the detail they need.
+
+---
+
+### Asset Register Dashboard
+
+Uploaded test data is displayed in a clear asset register format so users can quickly review what has been tested.
+
+The dashboard helps users check:
+
+* Asset IDs
+* Appliance descriptions
+* Locations
+* Test dates
+* Retest dates
+* Pass/fail status
+* Items requiring attention
+
+This makes it easier to confirm that the uploaded data has been interpreted correctly before generating a report.
+
+---
+
+### Location Grouping and Tree View
+
+Assets can be grouped by location to make large reports easier to navigate.
+
+This is useful for sites with multiple areas, departments, rooms, warehouses, offices, or work zones.
+
+Users can expand and collapse location groups to review the asset list in a more structured way.
+
+---
+
+### Report Preview Before Export
+
+Before creating the final PDF, users can preview report outputs inside the app.
+
+This helps catch layout issues, incorrect details, or unexpected data before the report is supplied to a customer.
+
+Users can switch between report types and confirm that each report is displaying the correct information.
+
+---
+
+### PDF Export
+
+Once the report has been reviewed, users can export it as a PDF.
+
+The exported report can be saved, printed, emailed, or supplied to customers as part of the testing documentation.
+
+The aim is to produce a report that looks more professional than a raw machine export while still being based on the original test data.
+
+---
+
+### Business and Branding Settings
+
+TTS Reports includes settings for business details and branding so reports can be customised for the testing provider.
+
+This may include:
+
+* Business name
+* Contact details
+* Report details
+* Logo or branding elements
+* Report defaults
+
+Settings are designed to flow through to the preview and exported report outputs.
+
+---
+
+### Licence and Terms Flow
+
+The software includes a simple licence activation and terms acceptance process.
+
+This helps control access during internal testing and ensures users accept the current terms before uploading files or generating reports.
+
+---
+
+### Shop Specials Area
+
+The app includes a shop specials / sale items area that can display offers from Test and Tag Supplies.
+
+This allows the reporting tool to also provide a simple promotional link between software users and relevant test and tag products.
+
+---
+
+## Who It Is For
+
+TTS Reports is designed for:
+
+* Test and tag businesses
+* Electrical safety testing providers
+* Internal compliance teams
+* Technicians who need better reports
+* Business owners who want cleaner customer documentation
+* Staff reviewing large asset lists
+* Teams preparing retest or compliance reports
+
+It is especially useful for businesses that already collect testing data but want a better way to present it.
+
+---
+
+## Why Use TTS Reports?
+
+Many test and tag reports are difficult for customers to read. They can be too technical, poorly formatted, or inconvenient to review.
+
+TTS Reports is designed to bridge the gap between raw testing data and a professional customer-facing report.
+
+It helps make reports:
+
+* Easier to read
+* Better organised
+* More professional
+* More useful for customers
+* Faster to generate
+* Easier to check before sending
+
+The result is a smoother reporting process and a better customer experience.
+
+---
+
+## Current Release
+
+**TTS_REPORTS_V2_Testing_Release** is an internal testing version of the software.
+
+This release is being used to validate the app flow, report accuracy, PDF export, settings, layout, and usability before further development or wider release.
+
+It is not intended as a final public production release yet.
+
+---
+
+## Final Summary
+
+TTS Reports is a hosted reporting tool that helps test and tag businesses turn uploaded test data into clear, professional, customer-ready reports.
+
+It is built to reduce manual reporting work, improve report presentation, and make it easier to review, preview, and export test and tag documentation.
+
+
 
 # TTS_REPORTS_V2_Testing_Release
 
